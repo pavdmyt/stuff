@@ -5,7 +5,6 @@ a-ha
 * Take On Me
 
 
----
 ABBA
 ----
 
@@ -19,7 +18,6 @@ ABBA
 * Waterloo
 
 
----
 AC/DC
 -----
 
@@ -36,7 +34,6 @@ AC/DC
 * Highway to Hell
 
 
----
 Aerosmith
 ---------
 
@@ -44,7 +41,6 @@ Aerosmith
 * I Don't Want to Miss a Thing
 
 
----
 Autograph
 ---------
 
@@ -52,7 +48,6 @@ Autograph
 * Turn up the Radio
 
 
----
 Bon Jovi
 --------
 
@@ -68,7 +63,6 @@ Bon Jovi
 * Runaway
 
 
----
 Bananarama
 ----------
 
@@ -76,7 +70,6 @@ Bananarama
 * Venus
 
 
----
 Boney M
 -------
 
@@ -94,7 +87,6 @@ Boney M
 * Rasputin
 
 
----
 Boston
 ------
 
@@ -103,7 +95,6 @@ Boston
 * More than A Feeling
 
 
----
 Coldplay
 --------
 
@@ -125,7 +116,6 @@ Coldplay
 * The Scientist
 
 
----
 Creedence Clearwater Revival
 ----------------------------
 
@@ -144,7 +134,6 @@ Creedence Clearwater Revival
 * Lookin' Out My Back Door
 
 
----
 Daft Punk
 ---------
 
@@ -157,7 +146,6 @@ Daft Punk
 * Robot Rock
 
 
----
 Electric Light Orchestra
 ------------------------
 
@@ -165,7 +153,6 @@ Electric Light Orchestra
 * Ticket to the Moon
 
 
----
 Enrique Iglesias
 ----------------
 
@@ -179,7 +166,6 @@ Enrique Iglesias
 * Noche Y De Dia
 
 
----
 Eurythmics
 ----------
 
@@ -187,7 +173,6 @@ Eurythmics
 * Sweet Dreams
 
 
----
 Foreigner
 ---------
 
@@ -195,7 +180,6 @@ Foreigner
 * Urgent
 
 
----
 Gente de Zona
 -------------
 
@@ -204,7 +188,6 @@ Gente de Zona
 * Traidora
 
 
----
 George Benson
 -------------
 
@@ -213,7 +196,6 @@ George Benson
 #### That's Right
 
 
----
 Guns N' Roses
 -------------
 
@@ -225,7 +207,6 @@ Guns N' Roses
 * November Rain
 
 
----
 Jaco Pastorius
 --------------
 
@@ -233,7 +214,6 @@ Jaco Pastorius
 #### Stuttgart Aria
 
 
----
 Jeff Beck
 ---------
 
@@ -242,7 +222,6 @@ Jeff Beck
 * Freeway Jam
 
 
----
 Joe Satriani
 ------------
 
@@ -255,14 +234,12 @@ Joe Satriani
 * Crowd Chant
 
 
----
 Pat Metheny
 -----------
 
 #### The Way Up
 
 
----
 Led Zeppelin
 ------------
 
@@ -294,7 +271,6 @@ Led Zeppelin
 * Black Country Woman
 
 
----
 Michael Jackson
 ---------------
 
@@ -308,7 +284,6 @@ Michael Jackson
 * Smooth Criminal
 
 
----
 Pharrell Williams
 -----------------
 
@@ -316,7 +291,6 @@ Pharrell Williams
 * Happy
 
 
----
 Pink Floyd
 ----------
 
@@ -333,7 +307,6 @@ Pink Floyd
 * Comfortably Numb
 
 
----
 Queen
 -----
 
@@ -365,7 +338,6 @@ Queen
 * The Miracle
 
 
----
 Robbie Williams
 ---------------
 
@@ -385,7 +357,6 @@ Robbie Williams
 * She's the One
 
 
----
 Rush
 ----
 
@@ -401,7 +372,6 @@ Rush
 * Distant Early Warning
 
 
----
 The Doors
 ---------
 
@@ -416,7 +386,6 @@ The Doors
 * Riders On The Storm
 
 
----
 The Beatles
 -----------
 
@@ -449,7 +418,6 @@ The Beatles
 * For No One
 
 
----
 The Police
 ----------
 
@@ -457,7 +425,6 @@ The Police
 * Every Breath You Take
 
 
----
 The White Stripes
 -----------------
 
@@ -470,7 +437,6 @@ The White Stripes
 * Icky Thump
 
 
----
 The Who
 -------
 
@@ -481,7 +447,6 @@ The Who
 * Eminence Front
 
 
----
 Tom Petty
 ---------
 
@@ -489,7 +454,6 @@ Tom Petty
 * Runnin' Down A Dream
 
 
----
 Tony MacAlpine
 --------------
 
@@ -502,7 +466,6 @@ Tony MacAlpine
 * The Raven
 
 
----
 U2
 --
 
@@ -510,7 +473,6 @@ U2
 * With or Without You
 
 
----
 Whitesnake
 ----------
 
@@ -519,7 +481,6 @@ Whitesnake
 * Still Of The Night
 
 
----
 Whitney Huston
 --------------
 
